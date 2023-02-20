@@ -1,3 +1,5 @@
+package Question_Of_The_Day;
+
 import java.util.Scanner;
 
 public class Digit_games {

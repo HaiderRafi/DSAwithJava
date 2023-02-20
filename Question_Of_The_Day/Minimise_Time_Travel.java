@@ -1,3 +1,5 @@
+package Question_Of_The_Day;
+
 import java.util.Scanner;
 
 public class Minimise_Time_Travel {
