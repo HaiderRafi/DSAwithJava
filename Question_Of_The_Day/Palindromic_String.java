@@ -27,8 +27,6 @@ public class Palindromic_String {
 }
 
 
-
-
 /*
 Palindromic String
 Time Limit: 2 sec
